@@ -38,3 +38,4 @@ printer_data/comms/
 .DS_Store
 *.swp
 *.pyc
+printer_data/gcodes/
